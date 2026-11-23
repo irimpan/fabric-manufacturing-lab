@@ -1,0 +1,10 @@
+# Keep data and secrets out of the repo
+*.xlsx
+*.csv
+*.parquet
+*.bak
+*.pbix
+.env
+*.secret
+local.settings.json
+.DS_Store
